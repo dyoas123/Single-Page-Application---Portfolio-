@@ -91,7 +91,7 @@ body {
     }
 }
 
-.repositories {
+.REPOSITORIES {
     text-align: center;
     color: rgb(0, 0, 0);
     margin-left: 100px;
@@ -107,7 +107,7 @@ body {
     .desc {
         font-family: 'Courier New';
     }
-    .josip {
+    .joash {
         padding: 30px;
         height: 500px;
         width: 48%;
@@ -143,15 +143,7 @@ body {
     .desc {
         font-family: 'Courier New';
     }
-    .josip {
-        padding: 30px;
-        height: 200px;
-        width: 48%;
-        border-style: solid;
-        border-color: black;
-        border-radius: 30px;
-        float:left;
-    }
+   
     .joash {
         padding: 30px;
         height: 200px;
@@ -159,7 +151,7 @@ body {
         border-style: solid;
         border-color: black;
         border-radius: 30px;
-        float: right;
+     float:center;
     }
 
     button {
